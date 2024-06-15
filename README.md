@@ -1,4 +1,4 @@
-Welcome to the **Image Quality Assessment**, An ML, DL based project! This repository hosts a cutting-edge tool for evaluating the aesthetic quality of images using advanced AI, ML, and deep learning techniques. Whether you are a photographer, designer, or an enthusiast of visual aesthetics, this empowers you to assess, select and enhance the quality of your images effortlessly.
+Welcome to the **Image Quality Assessment**, An ML, DL based project! This repository hosts a cutting-edge tool for evaluating the aesthetic quality of images (By Providing "Quality of an image" score of USER INPUT image) using advanced AI, ML, and deep learning techniques. Whether you are a photographer, designer, or an enthusiast of visual aesthetics, this empowers you to assess, select and enhance the quality of your images effortlessly.
 
 ## 🚀 Features
 
