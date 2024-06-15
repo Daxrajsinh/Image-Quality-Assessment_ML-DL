@@ -1,8 +1,10 @@
+Welcome to the **Image Quality Assessment**, An ML, DL based project! This repository hosts a cutting-edge tool for evaluating the aesthetic quality of images using advanced AI, ML, and deep learning techniques. Whether you are a photographer, designer, or an enthusiast of visual aesthetics, this empowers you to assess, select and enhance the quality of your images effortlessly.
+
 ## 🚀 Features
 
 - **🔍 Multimodal Analysis**: Leverages both visual and textual data for comprehensive image quality assessment.
 - **🎨 Customizable Prompts**: Allows users to define personalized criteria for evaluating image aesthetics.
-- **🤖 Advanced AI Model**: Utilizes CLIP (Contrastive Language-Image Pretraining) for precise and context-aware image evaluations.
+- **🤖 Advanced AI Models**: Utilizes CLIP IQA (Image Quality Assessment), CLIP:Classification, and BLIP:Classification for precise and context-aware image evaluations.
 
 ## 📦 Installation
 
